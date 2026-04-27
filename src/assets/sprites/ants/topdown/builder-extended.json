@@ -1,0 +1,26 @@
+{
+  "frameWidth": 32,
+  "frameHeight": 32,
+  "view": "topdown",
+  "role": "builder",
+  "animations": {
+    "dig": {
+      "row": 0,
+      "frames": 6,
+      "fps": 8,
+      "loop": true
+    },
+    "die": {
+      "row": 1,
+      "frames": 6,
+      "fps": 8,
+      "loop": false
+    },
+    "carry": {
+      "row": 2,
+      "frames": 4,
+      "fps": 6,
+      "loop": true
+    }
+  }
+}

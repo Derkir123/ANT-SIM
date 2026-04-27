@@ -1,0 +1,20 @@
+{
+  "frameWidth": 32,
+  "frameHeight": 32,
+  "view": "topdown",
+  "role": "soldier",
+  "animations": {
+    "die": {
+      "row": 0,
+      "frames": 6,
+      "fps": 8,
+      "loop": false
+    },
+    "attack": {
+      "row": 1,
+      "frames": 4,
+      "fps": 10,
+      "loop": false
+    }
+  }
+}

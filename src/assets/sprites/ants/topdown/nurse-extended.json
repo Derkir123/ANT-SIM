@@ -1,0 +1,20 @@
+{
+  "frameWidth": 32,
+  "frameHeight": 32,
+  "view": "topdown",
+  "role": "nurse",
+  "animations": {
+    "die": {
+      "row": 0,
+      "frames": 6,
+      "fps": 8,
+      "loop": false
+    },
+    "feed": {
+      "row": 1,
+      "frames": 4,
+      "fps": 6,
+      "loop": true
+    }
+  }
+}

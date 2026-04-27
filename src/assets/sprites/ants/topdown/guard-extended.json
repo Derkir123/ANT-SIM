@@ -1,0 +1,14 @@
+{
+  "frameWidth": 32,
+  "frameHeight": 32,
+  "view": "topdown",
+  "role": "guard",
+  "animations": {
+    "die": {
+      "row": 0,
+      "frames": 6,
+      "fps": 8,
+      "loop": false
+    }
+  }
+}
